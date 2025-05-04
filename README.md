@@ -1,6 +1,5 @@
 # Monte-Carlo-Particle-Simulation
 MS Thesis Future Work - Charged Particle Transport in a WBG Semiconductor
-# Monte Carlo Particle Simulation
 
 This repository contains a simple and extensible Monte Carlo simulation of particle dynamics. The aim is to model the random motion and energy loss of particles in a medium, a technique commonly used in statistical physics, radiation detection, and high-energy particle transport.
 
